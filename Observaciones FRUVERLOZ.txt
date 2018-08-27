@@ -1,0 +1,36 @@
+Lista de precios
+	Se le manda al corporativo
+	Los clientes no acostumbran a preguntar por precios. 
+	Proveedores
+		Les gustaría poder publicar una lista de precios
+	Problemas
+		El precio cambia en la tarde, y se hacen una idea de que los precios no han cambiado ese mismo día.
+
+	Hacen dos veces el cambio de precios
+		Para el software personal
+		Para el software de facturación
+
+	Posibles soluciones
+		Habilitar pedidos a partir de cierto horario para los pedidos del día siguiente.
+
+
+
+Visibilidad de información de proveedores
+	Le da valor a la aplicación.
+	Genera competencia y afecta a los proveedores
+
+	Enlace proveedore, cliente
+		Quitarle la libertad a los clientes para que no cambien de proveedor cuando quieran
+		Desde arriba, se realicen las relaciones entre clientes y proveedores.
+	
+	Calificación de los clientes a los proveedores
+
+	Catálogo (a tratar)
+
+
+Reportes
+	Costeo de todos los productos que se vendieron ese día (global) 
+	Control interno de facturas
+		Trabajan con las facturas semanales 
+			Se ve si ya están pagados o no
+		Verifican que unidades tienen adeudos
