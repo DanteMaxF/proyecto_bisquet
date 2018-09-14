@@ -6,13 +6,20 @@
 {% block content %}
     <div class="container">
       <div class="row justify-content-md-center">
-        <div class="col-md-auto">
+        <div class="col-md-3">
           <h2>Login</h2>
           <form method="post">
             {% csrf_token %}
             {{ form.as_p }}
-            <button type="submit">Login</button>
+            <button class="btn btn-primary pull-right" type="submit">Login</button>
           </form>
+          <!--
+          <form action="reset/" method="POST">
+            {% csrf_token %}
+            <button type="button" class="btn btn-info pull-right" type="submit">Forgot password?</button>
+          </form>
+        -->
+          <br><br>
         </div>
       </div>
     </div>
